@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif" width="120"/>
 </p>
 
-# Hi there, I'm Nyan Min Htet (Jade) 🐸
+# Hello there! I'm Nyan Min Htet (Jade) 🐸
 
 I'm a soon-to-be Computer Engineering student who loves exploring the world of low-level programming and embedded systems. Let's push the boundaries of what machines can do—right down to the metal!
 
