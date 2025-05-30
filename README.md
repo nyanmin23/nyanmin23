@@ -6,8 +6,8 @@
 
 I'm a soon-to-be Computer Engineering student who loves exploring the world of low-level programming and embedded systems. Let's push the boundaries of what machines can do—right down to the metal!
 
-- ⚙️ I'm currently applying to universities and just finished high school
-- 🌱 I’m currently learning **CS50x** and the **Java MOOC** from University of Helsinki
+- ⚙️ I've finished high school and currenlty applying to universities
+- 🌱 I’m currently learning **CS50x** from Harvard and the **Java MOOC** from University of Helsinki
 - 🧠 Ask me about **AI**, **Operating Systems**, or **how to crash your machine with a buffer overflow**
 - 📫 Reach me at: [nyanminhtet2304@gmail.com](mailto:nyanminhtet2304@gmail.com), [LinkedIn](https://www.linkedin.com/in/nyanmin23)
 
