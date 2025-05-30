@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif" width="400"/>
 </p>
 
 # Hi there, I'm Nyan Min Htet (Jade) 👋
