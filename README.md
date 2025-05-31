@@ -7,7 +7,7 @@
 I'm a soon-to-be Computer Engineering student who loves exploring the world of low-level programming and embedded systems. Let's push the boundaries of what machines can do—right down to the metal!
 
 - ⚙️ I've finsihed high school and currently applying to universities
-- 🌱 I’m currently learning **CS50x** and the **Java MOOC** from University of Helsinki  
+- 🌱 I’m currently learning **CS50x** from Harvard and the **Java MOOC** from University of Helsinki  
 - 🧠 Ask me about **Economics**, **Operating Systems**, **AI**, or **how to crash your machine with a buffer overflow**
 
 ---
