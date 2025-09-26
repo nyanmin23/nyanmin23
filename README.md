@@ -24,11 +24,4 @@ I'm a soon-to-be Computer Engineering student who loves exploring the world of l
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&cache_bust=1)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&cache_bust=1)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🧠 Fun Fact
-
-💥 I buffer overflow to crash my machine... all in the name of learning!
