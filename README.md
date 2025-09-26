@@ -4,10 +4,8 @@
 
 # Hello there! I'm Nyan Min Htet (Jade) 🐸
 
-I'm a soon-to-be Computer Engineering student who loves exploring the world of low-level programming and embedded systems. Let's push the boundaries of what machines can do—right down to the metal!
-
 - ⚙️ I've finsihed high school and currently applying to universities
-- 🌱 I’m currently learning **CS50x** from Harvard and the **Java MOOC** from University of Helsinki  
+- 🌱 I completed **CS50x** and currenty learning **Data Structures & Algorithms** for my Software Engineering career.
 - 🧠 Ask me about **Economics**, **Operating Systems**, **AI**, or **how to crash your machine with a buffer overflow**
 
 ---
