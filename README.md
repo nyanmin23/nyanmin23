@@ -4,16 +4,16 @@
 
 ---
 
-# Hi, I'm Jade
+# Hi, I'm Jade! 🐸
 
 Backend-focused developer working with Java and Python.
 Currently building backend systems with Spring Boot and preparing for a Backend Engineer role.
 
 ## Currently Working On
 
-* Building REST APIs with Spring Boot
-* Strengthening backend architecture fundamentals
-* Preparing for backend internship opportunities
+* Building REST APIs with Spring Boot 👨🏻‍💻
+* Strengthening backend architecture fundamentals 📚
+* Preparing for backend internship opportunities 💼
 
 ## Tech Stack
 
