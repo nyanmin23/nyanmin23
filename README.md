@@ -1,21 +1,26 @@
 <p align="center">
-  <img src="https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif" width="120"/>
+  <img 
+    src="https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif"
+    width="80"
+    alt="Typing animation"
+    title="Currently coding"
+  />
 </p>
 
 ---
 
-# Hi, I'm Jade! 🐸
+### Hi, I'm Jade! 🐸
 
 Backend-focused developer working with Java and Python.
 Currently building backend systems with Spring Boot and preparing for a Backend Engineer role.
 
-## Currently Working On
+### Currently Working On
 
 * Building REST APIs with Spring Boot 👨🏻‍💻
 * Strengthening backend architecture fundamentals 📚
 * Preparing for backend internship opportunities 💼
 
-## Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
@@ -24,9 +29,10 @@ Currently building backend systems with Spring Boot and preparing for a Backend 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
-## Contact
+### Contact
 
-[nyanminhtet2304@gmail.com](mailto:nyanminhtet2304@gmail.com)
+Mail me at: [nyanminhtet2304@gmail.com](mailto:nyanminhtet2304@gmail.com)
+
 Open to backend internships.
 
 ---
