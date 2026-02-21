@@ -9,7 +9,7 @@
 
 ---
 
-### Hi, I'm Jade! 🐸
+# Hi, I'm Jade! 🐸
 
 Backend-focused developer working with Java and Python.
 Currently building backend systems with Spring Boot and preparing for a Backend Engineer role.
