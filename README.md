@@ -33,6 +33,6 @@ Currently building backend systems with Spring Boot and preparing for a Backend 
 
 Mail me at: [nyanminhtet2304@gmail.com](mailto:nyanminhtet2304@gmail.com)
 
-Open to backend internships.
+Open to Internships.
 
 ---
